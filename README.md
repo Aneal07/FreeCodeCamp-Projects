@@ -5,7 +5,7 @@ These projects cover different aspects of web development,
 such as HTML, 
 CSS, 
 and responsive design.
-(Demo):[https://github.com/Aneal07/FreeCodeCamp-Projects/tree/main/FreeCodeCamp%20Projects/Build%20a%20Portfolio%20Webpage]
+
 Projects Included
 
 Tribute Page: A web page dedicated to a person or entity that has had a significant impact on my life.
